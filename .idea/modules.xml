@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DevelhopeWork.iml" filepath="$PROJECT_DIR$/DevelhopeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/co.develhope.introduction/co.develhope.introduction.iml" filepath="$PROJECT_DIR$/co.develhope.introduction/co.develhope.introduction.iml" />
     </modules>
   </component>
 </project>
